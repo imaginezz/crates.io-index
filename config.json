@@ -1,4 +1,4 @@
 {
-  "dl": "https://crates.io/api/v1/crates",
-  "api": "https://crates.io"
+  "api": "https://outer.crates.ali/",
+  "dl": "https://outer.crates.ali/api/v1/crates"
 }
